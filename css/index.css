@@ -1,0 +1,51 @@
+body{
+    font-family: 'Righteous', cursive;
+}
+nav img{
+    height:50px;
+    width:75px;
+
+}
+.carousel slide{
+    margin-top: 20px;
+}
+
+
+.jumbotron{
+    
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.modal-dialog{
+    padding: 8%;
+}
+.modal-body{
+    background-color: cornflowerblue;
+    
+}
+.modal-body a{
+    color: black;
+}
+.container p{
+    margin-top: 20px;
+}
+
+.single-footer-widget a{
+    font-size: 30px;
+    margin-right: 20px;
+}
+.single-footer-widget h6{
+    margin-top:20px;
+
+}
+.container{
+    margin-top: 20px;
+    
+
+}
+.footer-area{
+    background-color: aliceblue;
+}
