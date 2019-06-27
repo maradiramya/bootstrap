@@ -1,7 +1,7 @@
 body{
     font-family: 'Righteous', cursive;
 }
-nav img{
+.navbar img{
     height:50px;
     width:75px;
 
@@ -39,7 +39,9 @@ nav img{
 .single-footer-widget h6{
     margin-top:20px;
 
+
 }
+
 .container{
     margin-top: 20px;
     
@@ -52,4 +54,15 @@ nav img{
     margin-left:10px;
     margin-top: 5px;
     
+}
+
+.container2{
+    text-align: right;
+    position: relative;
+    bottom: 10px;
+
+}
+.container2 button{
+    margin-left:5px;
+    margin-top: 5px;
 }
