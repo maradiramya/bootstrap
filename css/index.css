@@ -15,9 +15,6 @@ body{
 .carousel slide{
     margin-top: 20px;
 }
-.head-title{
-    text-transform:uppercase;
-}
 
 /*jumbotron alignment*/
 .jumbotron{
@@ -60,7 +57,7 @@ body{
 }
 
 .container{
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 /*footer decorated*/
@@ -72,14 +69,13 @@ body{
     margin-top: 2px;
     
 }
-.pane{
-    margin-top: 20px;
-}
+
 
 .container2{
-    text-align: right;
-    position: relative;
-    bottom: 50px;
+
+
+text-align: center;
+    
 
 }
 .container2 button{
