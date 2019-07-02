@@ -1,18 +1,5 @@
-Agile Practices
-Timeliness
-Programming Practices
-Project Structure and Naming
-Clean CodeResponsiveness
-Semantic Elements
-IndentationGitCode
-Comments Custom CSS
-Elements-Usage
-Fixed-header/Navigation-bar
-jumbotron
-Carosuel
-Grid Framework
-Footer
-Favicons,Glyphicon,Google fonts
-Tabbed pane,
-Modal
-Additional elements(ex:Google Map)
+
+I designed a website for hotel, to design this website i used html,css and bootstrap4.
+i design the website as per the agile practices and timeliness,i clearly mention the project name and structure.
+i used semantic elements, glyphicon, google fonts,modal,favicons to design this website...
+ https://maradiramya.github.io/bootstrap/
